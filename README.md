@@ -3,6 +3,8 @@ List of all DropShipping websites
 
 *from https://twitter.com/doubleshitfuck/status/1030078444766461953*
 
+NOTE: Send me a PR if you wish to add some websites to the list ;) 
+
 * http://bikinix.fr
 * http://nikkipronails.com
 * https://boutique-des-sacs.com/fr/
